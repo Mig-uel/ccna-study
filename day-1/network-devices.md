@@ -65,6 +65,8 @@ The switches in each branch cannot connect directly to the internet or each othe
 - provide a way for devices to communicate with each other within the same network (LAN)
 - do not provide a way for devices to communicate with other networks (such as the internet) without a router
 
+A **CISCO Catalyst** is an example of a network switch that provides advanced features such as high port density, support for Power over Ethernet (PoE), and advanced security features. It is commonly used in enterprise networks to connect devices within a LAN and to provide connectivity to the internet through a router.
+
 ### Routers
 
 ```mermaid
