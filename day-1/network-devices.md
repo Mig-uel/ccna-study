@@ -98,6 +98,8 @@ Remember that switches are used to forward data within a local area network (LAN
 - are used to connect different networks together, such as a LAN to the internet
 - are used to send data over the internet and to other networks
 
+A **CISCO ISR (Integrated Services Router)** is an example of a router that provides advanced features such as routing, security, and voice services. It is commonly used in enterprise networks to connect different branches and to provide secure access to the internet.
+
 ### Firewalls
 
 ```mermaid
