@@ -167,3 +167,5 @@ What about the firewall on your computer? Is that a firewall?
 We've looked at **Network Firewalls** which are hardware or software devices that protect an entire network.
 
 The firewall on your computer is a **Host-Based Firewall**. It is a software application that runs on an individual device and monitors and controls incoming and outgoing network traffic based on predetermined security rules. It is designed to protect the individual device from unauthorized access and potential threats.
+
+A **CISCO ASA (Adaptive Security Appliance)** is an example of a network firewall that provides advanced security features such as intrusion prevention, application awareness, and more advanced threat detection capabilities. It is commonly used in enterprise networks to protect against external threats and to secure internal network segments.
